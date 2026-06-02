@@ -32,4 +32,4 @@ Ex-Amazon | IIT Guwahati | IIM Bangalore
 
 ## Connect
 
-- LinkedIn: https://in.linkedin.com/in/shaktiamarendra
+- LinkedIn: https://linkedin.com/in/shaktiamarendra
