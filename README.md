@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/GitHub Banner.png" width="100%">
+</p>
+
 # Shakti Amarendra
 
 Technology Executive | AI, Cloud & Platform Transformation
