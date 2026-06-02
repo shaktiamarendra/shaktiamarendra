@@ -1,16 +1,35 @@
-## Hi there 👋
+# Shakti Amarendra
 
-<!--
-**shaktiamarendra/shaktiamarendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technology Executive | AI, Cloud & Platform Transformation
 
-Here are some ideas to get you started:
+Ex-Amazon | IIT Guwahati | IIM Bangalore
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+12 Granted Patents | 16 Publications
+
+25+ Years Building and Scaling Distributed Systems, Cloud Platforms, AI Solutions and Enterprise Applications
+
+---
+
+## Executive Highlights
+
+- Engineering leadership across Amazon, Dell, HP, Philips, NXP and Equifax
+- Expertise in GenAI, Cloud Transformation, Distributed Systems and Platform Engineering
+- Led cross-functional organizations across Engineering, TPM, QA and Analytics
+- Passionate about innovation, mentoring and technology strategy
+
+---
+
+## Featured Areas
+
+- Generative AI & LLM Platforms
+- Distributed Systems Architecture
+- Cloud Modernization
+- Engineering Leadership
+- Innovation & Patents
+- Technical Strategy
+
+---
+
+## Connect
+
+- LinkedIn: https://in.linkedin.com/in/shaktiamarendra
